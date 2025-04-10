@@ -1,2 +1,2 @@
 # DSA-with-Cpp
-DSA with Cpp journey
+Logging my journey of learning DSA with C++ for future reference
